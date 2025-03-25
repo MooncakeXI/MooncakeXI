@@ -26,11 +26,11 @@
 <h1>My Skills</h1>
 <strong>Fundamental language</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
 
 <strong>Current learning language</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react)](https://skillicons.dev)
 
 <h1>My Tools</h1>
 
