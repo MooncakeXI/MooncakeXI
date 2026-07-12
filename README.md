@@ -34,7 +34,7 @@
 
 <h1>My Tools</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,arduino,docker,postman)](https://skillicons.dev)
 
 
 <h1>My Stats</h1>
