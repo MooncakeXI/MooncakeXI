@@ -1,57 +1,56 @@
-<h1 align="center">Hi👋, I'm Mooncake</h1>
+<h1 align="center">Hi 👋, I'm Mooncake</h1>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZoYmtkbjY0MGNoOTJxcHVsYXBqZngwcGl5YWgxdjg1MG83c3Q1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" alt="Hello World">
 </p>
 
-<h1>About Me</h1>
-<p>
-    <strong>Suvijak Phuphakdeepan</strong>.<br>
-    <strong>Intania 108 ⚙️ CEDT02 🥐</strong>
-
-![Badge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)
-
-![Badge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)
-
-
-  🌱 I’m currently studying <strong>Computer Engineering</strong>.<br>
-  👯 I’m interesting in  <strong>Fullstack Developer</strong>.<br>
-  ⚡ Fun fact: I love <strong>Reading</strong>.<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/chula-engineer.svg" alt="Chula Engineer">
+  <img src="https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/nisit-chula.svg" alt="Nisit Chula">
 </p>
 
-<strong>Now Playing</strong>
+---
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317qpqmsoznkzhf5nxogvdwn55oy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+## About Me
 
-<h1>My Skills</h1>
-<strong>Fundamental language</strong>
+**Suvijak Phuphakdeepan** — *Intania 108 | CEDT02 🥐*
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
+- 🎓 Computer Engineering & Digital Technology (CEDT), Chulalongkorn University
+- 🧩 Fullstack developer who kept falling down the **DevOps / MLOps** rabbit hole
+- ⚡ Fun fact: I love **reading**
+---
 
-<strong>Current learning language</strong>
+## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react)](https://skillicons.dev)
+**Languages**
 
-<h1>My Tools</h1>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,arduino,docker,postman)](https://skillicons.dev)
+**Web & Data**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind,postgres)](https://skillicons.dev)
+
+**Infra, Cloud & Ops**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,docker,aws,terraform,grafana,prometheus,git,github)](https://skillicons.dev)
+
+**Embedded & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino,vscode,postman,vim)](https://skillicons.dev)
+
+---
 
 
-<h1>My Stats</h1>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MooncakeXI&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooncakeXI&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
+## GitHub Stats
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MooncakeXI&theme=radical" alt="Codeforces Stats">
 </p>
 
-<h2>Coding stat</h2>
-<p>
+---
 
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MooncakeXI)
-</p>
+## Contact Me
 
-
-<h1>Contact Me</h1>
-<p>
+<p align="center">
   <a href="https://www.instagram.com/marc_svj/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
